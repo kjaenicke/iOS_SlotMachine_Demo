@@ -1,2 +1,2 @@
-# iOS_SlotMachine_Demo
+# iOS Slot Machine Sample App
 Tutorial Application Building a Slot Machine Game for iOS using Swift
